@@ -1,0 +1,13 @@
+﻿RED LATINOAMERICANA DEL CEREBRO CUIDADOR
+DISEÑO ELEGIDO: OPCIÓN 1, INSTITUCIONAL AZUL
+
+1. Descarga y extrae TODO el ZIP en una carpeta de tu computadora.
+2. Abre index.html en Chrome, Edge, Firefox o Safari.
+3. Usa el menú para visitar las ocho secciones.
+
+Incluye Historia, Quiénes somos, Grupos, Eventos, Proyectos, Recursos,
+Oportunidades y Contacto. Las imágenes y el informe están incluidos.
+Los videos se abren en YouTube. Los enlaces externos necesitan internet.
+
+No necesitas instalar programas ni tener una cuenta de GitHub.
+El directorio de miembros es inicial y faltan algunos datos por confirmar.
